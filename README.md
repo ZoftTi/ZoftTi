@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZoftTi&hide=contribs&show_icon=true&theme=radical,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZoftTi&show_icons=true&theme=radical)
 
 <!--
 **ZoftTi/ZoftTi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
